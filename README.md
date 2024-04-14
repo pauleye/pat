@@ -5,6 +5,14 @@ Näytelmässä käytetyt Creative Commons -lisensoidut äänet:
   - https://freesound.org/s/443032/ -- License: Creative Commons 0
 - Light traffic passing by. by Tom_Kaszuba
   - https://freesound.org/s/669415/ -- License: Creative Commons 0
+- Kolari, autokolari / Car crash, head-on collision, cars approaching, brakes, other car honks, crash, metal banging, glass breaking, mix by YleArkisto
+  - https://freesound.org/s/270297/ -- License: Attribution 4.0
+- Kolari, autokolari / Car crash, head-on collision, cars approaching, brakes, crash, metal banging, glass breaking, mix by YleArkisto
+  - https://freesound.org/s/270298/ -- License: Attribution 4.0
+- Kolari, autokolari / Car crash, a car approaching, brakes, crash, metal banging, glass breaking, mix by YleArkisto
+  - https://freesound.org/s/270299/ -- License: Attribution 4.0
+- Ambulance going by.wav by JPBILLINGSLEYJR
+  - https://freesound.org/s/504522/ -- License: Creative Commons 0
 - rainstorm.aiff by klangfabrik
   - https://freesound.org/s/194209/ -- License: Creative Commons 0
 - Rain ambient sounds by DBlover
