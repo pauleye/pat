@@ -11,8 +11,10 @@ Näytelmässä käytetyt Creative Commons -lisensoidut äänet:
   - https://freesound.org/s/270298/ -- License: Attribution 4.0
 - Kolari, autokolari / Car crash, a car approaching, brakes, crash, metal banging, glass breaking, mix by YleArkisto
   - https://freesound.org/s/270299/ -- License: Attribution 4.0
-- Ambulance going by.wav by JPBILLINGSLEYJR
-  - https://freesound.org/s/504522/ -- License: Creative Commons 0
+- 14-1_ambulance.WAV by 16FPanskaLan_Jiri
+  - https://freesound.org/s/498187/ -- License: Creative Commons 0
+- 14-2_ambulance.WAV by 16FPanskaLan_Jiri
+  - https://freesound.org/s/498186/ -- License: Creative Commons 0
 - rainstorm.aiff by klangfabrik
   - https://freesound.org/s/194209/ -- License: Creative Commons 0
 - Rain ambient sounds by DBlover
