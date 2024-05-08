@@ -11,6 +11,14 @@ Näytelmässä käytetyt Creative Commons -lisensoidut äänet:
   - https://freesound.org/s/270298/ -- License: Attribution 4.0
 - Kolari, autokolari / Car crash, a car approaching, brakes, crash, metal banging, glass breaking, mix by YleArkisto
   - https://freesound.org/s/270299/ -- License: Attribution 4.0
+- Bicycle Chain Accel Crash.aif by Angel_Perez_Grandi
+  - https://freesound.org/s/50628/ -- License: Attribution 4.0
+- bike_drop1.wav by NeoSpica
+  - https://freesound.org/s/419116/ -- License: Creative Commons 0
+- bike_drop2.wav by NeoSpica
+  - https://freesound.org/s/419115/ -- License: Creative Commons 0
+- Bike-foley-falling.WAV by L.Finck
+  - https://freesound.org/s/636545/ -- License: Creative Commons 0
 - rainstorm.aiff by klangfabrik
   - https://freesound.org/s/194209/ -- License: Creative Commons 0
 - Rain ambient sounds by DBlover
