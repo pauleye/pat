@@ -43,6 +43,8 @@ Näytelmässä käytetyt Creative Commons -lisensoidut äänet:
   - https://freesound.org/s/19869/ -- License: Attribution 3.0
 - Ukkonen, salamat / Thunder, thunderstorm, strong lightning nearby by YleArkisto
   - https://freesound.org/s/243417/ -- License: Attribution 4.0
+- Ukkonen, salama / Thunder, a few lightning strikes, rumble, boom, thunderstorm, edit by YleArkisto
+  - https://freesound.org/s/347817/ -- License: Attribution 4.0
 - RAIN on glass window.wav by nicoproson
   - https://freesound.org/s/648529/ -- License: Creative Commons 0
 - Sade ikkunalaudalle / Rain on a metal windowsill, recorded inside, constant thrumming, a close sound, interior by YleArkisto
